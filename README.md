@@ -2,7 +2,6 @@
 - 🔧 I’m interested in Solving Problems
 - 📖 I’m currently learning to be useful
 - 🫱🏻‍🫲🏽 I’m looking to collaborate on anything challenging
-- 📫 Instagram: @aryanisalive
 
 <!---
 aryanisalive/aryanisalive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
